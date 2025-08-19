@@ -27,7 +27,7 @@ We applied the following preprocessing pipeline before modeling:
 
 3. **Scaling**
 
-   * Standardized numeric features with `StandardScaler`.
+   * Standardized numeric features with StandardScaler.
    * Applied one-hot encoding for categorical features (if present).
 
 ## 3. Model Architecture
@@ -36,7 +36,7 @@ We used a **stack of models** depending on the target:
 
 * **GDP Growth Forecasting (Regression)**
 
-  * Gradient Boosting Regressor (`XGBoost`)
+  * Gradient Boosting Regressor (XGBoost)
   * Linear Regression (baseline)
 
 * **Shock & Resilience Prediction (Classification / Scoring)**
@@ -58,18 +58,18 @@ We tuned models using **RandomizedSearchCV** + cross-validation.
 
 ### Example: XGBoost (GDP Growth Forecasting)
 
-* `n_estimators`: 500
-* `max_depth`: 6
-* `learning_rate`: 0.05
-* `subsample`: 0.8
-* `colsample_bytree`: 0.8
+* n_estimators: 500
+* max_depth: 6
+* learning_rate: 0.05
+* subsample: 0.8
+* colsample_bytree: 0.8
 * Final RMSE improved by \~15% compared to default settings.
 
 ### Example: Random Forest (Shock Impact Classification)
 
-* `n_estimators`: 300
-* `max_depth`: 10
-* `min_samples_split`: 5
+* n_estimators: 300
+* max_depth: 10
+* min_samples_split: 5
 * Final accuracy: \~0.81 on validation.
 
 
@@ -78,5 +78,3 @@ We tuned models using **RandomizedSearchCV** + cross-validation.
 * All models were **trained reproducibly** with fixed random seeds.
 * Metrics reported: **RMSE (regression)**, **Accuracy/F1 (classification)**, and scenario-based comparative analysis.
 * Outputs are stored in JSON + parquet format for easy visualization and policy brief generation.
-
-👉 Do you want me to also prepare a **diagram (workflow of data → preprocessing → modeling → scenario analysis → outputs)** in the same doc to make it visually stronger?
