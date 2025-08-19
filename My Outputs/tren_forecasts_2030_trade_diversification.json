@@ -1,0 +1,202 @@
+[
+  {
+    "iso3": "AFG",
+    "country": "Afghanistan",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 3.923158376834222,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 9.15620389766897
+  },
+  {
+    "iso3": "ARG",
+    "country": "Argentina",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 2.3488866540503843,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 53.3759941978051
+  },
+  {
+    "iso3": "AUS",
+    "country": "Australia",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 2.70863068750643,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 76.81815218757555
+  },
+  {
+    "iso3": "BEL",
+    "country": "Belgium",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 1.627320592756483,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 75.75605962396577
+  },
+  {
+    "iso3": "BGD",
+    "country": "Bangladesh",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 6.1951050278480375,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 22.650594135408916
+  },
+  {
+    "iso3": "CAN",
+    "country": "Canada",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 1.9095484202079127,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 71.37973989615797
+  },
+  {
+    "iso3": "CHN",
+    "country": "China",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 8.018363282194205,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 42.481929791820505
+  },
+  {
+    "iso3": "DEU",
+    "country": "Germany",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 1.1704512986494726,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 68.42327879594612
+  },
+  {
+    "iso3": "ESP",
+    "country": "Spain",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 1.5000581649183937,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 65.32015254467525
+  },
+  {
+    "iso3": "FRA",
+    "country": "France",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 1.2479602126340505,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 69.07411992810107
+  },
+  {
+    "iso3": "GBR",
+    "country": "UK",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 1.4340066184690647,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 69.65855778905558
+  },
+  {
+    "iso3": "HRV",
+    "country": "Croatia",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 2.0335302338210974,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 44.684215310468275
+  },
+  {
+    "iso3": "IND",
+    "country": "India",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 6.575490808958811,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 21.214318110500034
+  },
+  {
+    "iso3": "IRN",
+    "country": "Iran",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 2.6367358036775217,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 43.71797683379257
+  },
+  {
+    "iso3": "IRQ",
+    "country": "Iraq",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 5.824281987808886,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 34.94814830827984
+  },
+  {
+    "iso3": "ISR",
+    "country": "Israel",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 3.9109075158341913,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 71.7796319809664
+  },
+  {
+    "iso3": "ITA",
+    "country": "Italy",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 0.36310348772120365,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 64.19487043145182
+  },
+  {
+    "iso3": "JPN",
+    "country": "Japan",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 0.6205729456111104,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 76.08552095484826
+  },
+  {
+    "iso3": "LKA",
+    "country": "Sri Lanka",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 4.035988400850654,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 24.480503787098534
+  },
+  {
+    "iso3": "PAK",
+    "country": "Pakistan",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 4.00665132393591,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 17.879164514927997
+  },
+  {
+    "iso3": "PRT",
+    "country": "Portugal",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 1.141625960142494,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 54.05188320403394
+  },
+  {
+    "iso3": "RUS",
+    "country": "Russia",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 2.833657028500174,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 40.683730846249475
+  },
+  {
+    "iso3": "SAU",
+    "country": "Saudi Arabia",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 4.042352679505848,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 57.498390877331865
+  },
+  {
+    "iso3": "SWE",
+    "country": "Sweden",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 1.9720282094594963,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 76.58972025003075
+  },
+  {
+    "iso3": "USA",
+    "country": "USA",
+    "scenario": "trade_diversification",
+    "gdp_growth_2030": 2.158710017725821,
+    "poverty_rate_2030": null,
+    "trade_resilience_2030": 78.8779429087341
+  }
+]

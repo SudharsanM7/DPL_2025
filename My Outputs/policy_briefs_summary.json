@@ -1,0 +1,306 @@
+[
+  {
+    "iso3": "AFG",
+    "country": "Afghanistan",
+    "gdp_growth_2030_med": 4.266964374650424,
+    "gdp_growth_2030_low": -1.5260165186525207,
+    "gdp_growth_2030_high": 6.246211968303173,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "ARG",
+    "country": "Argentina",
+    "gdp_growth_2030_med": 2.0092932155807213,
+    "gdp_growth_2030_low": -3.1857919012036455,
+    "gdp_growth_2030_high": 5.491167780216091,
+    "top3_vulnerabilities": "['shock_impact_score', 'trade_dependency_index', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "AUS",
+    "country": "Australia",
+    "gdp_growth_2030_med": 1.9548011375969623,
+    "gdp_growth_2030_low": -3.564090615055408,
+    "gdp_growth_2030_high": 5.703775687315759,
+    "top3_vulnerabilities": "['avg_disaster_damage_percap', 'shock_impact_score', 'trade_dependency_index']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "BEL",
+    "country": "Belgium",
+    "gdp_growth_2030_med": 5.557202746768667,
+    "gdp_growth_2030_low": -5.274235456507733,
+    "gdp_growth_2030_high": 7.693529406080681,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "BGD",
+    "country": "Bangladesh",
+    "gdp_growth_2030_med": 3.837571230484512,
+    "gdp_growth_2030_low": -1.7311852224529978,
+    "gdp_growth_2030_high": 5.624319799912426,
+    "top3_vulnerabilities": "['shock_impact_score', 'trade_dependency_index', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "CAN",
+    "country": "Canada",
+    "gdp_growth_2030_med": 1.7354015546683115,
+    "gdp_growth_2030_low": -3.352980398108214,
+    "gdp_growth_2030_high": 5.709833802394831,
+    "top3_vulnerabilities": "['avg_disaster_damage_percap', 'trade_dependency_index', 'shock_impact_score']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "CHN",
+    "country": "China",
+    "gdp_growth_2030_med": 2.2067625592942055,
+    "gdp_growth_2030_low": -2.8067633764799185,
+    "gdp_growth_2030_high": 6.090608876435524,
+    "top3_vulnerabilities": "['shock_impact_score', 'trade_dependency_index', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "DEU",
+    "country": "Germany",
+    "gdp_growth_2030_med": 1.2216077742360747,
+    "gdp_growth_2030_low": -3.384744566971713,
+    "gdp_growth_2030_high": 5.802624217548944,
+    "top3_vulnerabilities": "['avg_disaster_damage_percap', 'trade_dependency_index', 'shock_impact_score']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "ESP",
+    "country": "Spain",
+    "gdp_growth_2030_med": 1.2600722597328646,
+    "gdp_growth_2030_low": -3.5088314832255807,
+    "gdp_growth_2030_high": 5.703067725225606,
+    "top3_vulnerabilities": "['shock_impact_score', 'avg_disaster_damage_percap', 'trade_dependency_index']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "FRA",
+    "country": "France",
+    "gdp_growth_2030_med": 1.7067810507477585,
+    "gdp_growth_2030_low": -3.0663883436329105,
+    "gdp_growth_2030_high": 5.432995170489591,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "GBR",
+    "country": "UK",
+    "gdp_growth_2030_med": 1.7587493447735072,
+    "gdp_growth_2030_low": -3.359647278387665,
+    "gdp_growth_2030_high": 5.494336846338852,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'resilience_score']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms.",
+      "Increase fiscal buffers and social safety nets to improve resilience."
+    ]
+  },
+  {
+    "iso3": "HRV",
+    "country": "Croatia",
+    "gdp_growth_2030_med": -3.585779712290417,
+    "gdp_growth_2030_low": -6.007412194817553,
+    "gdp_growth_2030_high": 8.632518589640465,
+    "top3_vulnerabilities": "['avg_disaster_damage_percap', 'trade_dependency_index', 'shock_impact_score']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "IND",
+    "country": "India",
+    "gdp_growth_2030_med": 4.94307936738167,
+    "gdp_growth_2030_low": -0.8940067419522688,
+    "gdp_growth_2030_high": 6.011187225358686,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "IRN",
+    "country": "Iran",
+    "gdp_growth_2030_med": 1.8083496874919867,
+    "gdp_growth_2030_low": -3.6176236111538627,
+    "gdp_growth_2030_high": 5.941209019001332,
+    "top3_vulnerabilities": "['shock_impact_score', 'trade_dependency_index', 'resilience_score']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms.",
+      "Increase fiscal buffers and social safety nets to improve resilience."
+    ]
+  },
+  {
+    "iso3": "IRQ",
+    "country": "Iraq",
+    "gdp_growth_2030_med": 1.60162000362265,
+    "gdp_growth_2030_low": -2.9820856635463273,
+    "gdp_growth_2030_high": 5.495963417019427,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "ISR",
+    "country": "Israel",
+    "gdp_growth_2030_med": 1.402984244036539,
+    "gdp_growth_2030_low": -2.8429272575359965,
+    "gdp_growth_2030_high": 5.418161952873015,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "ITA",
+    "country": "Italy",
+    "gdp_growth_2030_med": 1.7618586754383663,
+    "gdp_growth_2030_low": -3.354360057655146,
+    "gdp_growth_2030_high": 5.761684626679391,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "JPN",
+    "country": "Japan",
+    "gdp_growth_2030_med": 1.9346481315611015,
+    "gdp_growth_2030_low": -3.077581196309095,
+    "gdp_growth_2030_high": 6.00668236271586,
+    "top3_vulnerabilities": "['avg_disaster_damage_percap', 'shock_impact_score', 'trade_dependency_index']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "LKA",
+    "country": "Sri Lanka",
+    "gdp_growth_2030_med": 1.8492496525694675,
+    "gdp_growth_2030_low": -3.220334044002313,
+    "gdp_growth_2030_high": 6.250810810743188,
+    "top3_vulnerabilities": "['shock_impact_score', 'trade_dependency_index', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "PAK",
+    "country": "Pakistan",
+    "gdp_growth_2030_med": 3.8636833489726747,
+    "gdp_growth_2030_low": -2.2306007960141745,
+    "gdp_growth_2030_high": 5.653135968951276,
+    "top3_vulnerabilities": "['shock_impact_score', 'trade_dependency_index', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "PRT",
+    "country": "Portugal",
+    "gdp_growth_2030_med": -1.0397038606646758,
+    "gdp_growth_2030_low": -5.579050942499481,
+    "gdp_growth_2030_high": 8.80877323354803,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "RUS",
+    "country": "Russia",
+    "gdp_growth_2030_med": 1.956464251470549,
+    "gdp_growth_2030_low": -3.1907166515848715,
+    "gdp_growth_2030_high": 6.444846962638505,
+    "top3_vulnerabilities": "['shock_impact_score', 'trade_dependency_index', 'resilience_score']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms.",
+      "Increase fiscal buffers and social safety nets to improve resilience."
+    ]
+  },
+  {
+    "iso3": "SAU",
+    "country": "Saudi Arabia",
+    "gdp_growth_2030_med": 1.402984244036539,
+    "gdp_growth_2030_low": -2.842336831345555,
+    "gdp_growth_2030_high": 5.419048322460176,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "SWE",
+    "country": "Sweden",
+    "gdp_growth_2030_med": -3.2134854825183905,
+    "gdp_growth_2030_low": -6.144559674609858,
+    "gdp_growth_2030_high": 8.687993977812738,
+    "top3_vulnerabilities": "['trade_dependency_index', 'shock_impact_score', 'avg_disaster_damage_percap']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms."
+    ]
+  },
+  {
+    "iso3": "USA",
+    "country": "USA",
+    "gdp_growth_2030_med": 1.1976471782333087,
+    "gdp_growth_2030_low": -4.273459579016647,
+    "gdp_growth_2030_high": 6.05738608730211,
+    "top3_vulnerabilities": "['shock_impact_score', 'trade_dependency_index', 'resilience_score']",
+    "recommendations_short": [
+      "Diversify trade partners and build domestic substitute capacity for key imports.",
+      "Invest in disaster risk reduction and shock-absorbing fiscal mechanisms.",
+      "Increase fiscal buffers and social safety nets to improve resilience."
+    ]
+  }
+]

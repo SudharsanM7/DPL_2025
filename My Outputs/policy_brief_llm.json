@@ -1,0 +1,427 @@
+[
+   {
+      "iso3": "AFG",
+      "country": "Afghanistan",
+      "gdp_growth_2030_med": 4.266964374650424,
+      "gdp_growth_2030_low": -1.5260165186525207,
+      "gdp_growth_2030_high": 6.246211968303173,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate Afghanistan's trade dependency vulnerability, the government should establish and incentivize domestic manufacturing sectors, particularly in high-value added industries such as textiles, food processing, and pharmaceuticals.",
+         "To reduce the impact of external shocks, the government should implement a diversified foreign investment strategy that targets countries with low correlation to Afghanistan's primary trade partners and promotes investment in sectors with strong potential for export diversification.",
+         "To minimize the average per capita damage from disasters, the government should invest in a nationwide early warning system and disaster risk reduction infrastructure, prioritizing flood-prone areas, landslides, and other natural disaster hotspots across the country."
+      ]
+   },
+   {
+      "iso3": "ARG",
+      "country": "Argentina",
+      "gdp_growth_2030_med": 2.0092932155807213,
+      "gdp_growth_2030_low": -3.1857919012036455,
+      "gdp_growth_2030_high": 5.491167780216091,
+      "top3_vulnerabilities": [
+         "shock_impact_score",
+         "trade_dependency_index",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate the impact of economic shocks on Argentina, the government should establish a sovereign wealth fund to absorb external shocks and stabilize the economy, targeting an allocation of 3% of the GDP per annum.",
+         "Argentina should diversify its trade by actively promoting and investing in the development of its agricultural and manufacturing sectors to reduce reliance on external trade and improve its trade dependency index.",
+         "To minimize disaster damage, the government should implement early warning systems and fund disaster-resilient infrastructure projects, allocating at least 5% of the annual infrastructure budget to climate-resilient construction and maintenance."
+      ]
+   },
+   {
+      "iso3": "AUS",
+      "country": "Australia",
+      "gdp_growth_2030_med": 1.9548011375969623,
+      "gdp_growth_2030_low": -3.564090615055408,
+      "gdp_growth_2030_high": 5.703775687315759,
+      "top3_vulnerabilities": [
+         "avg_disaster_damage_percap",
+         "shock_impact_score",
+         "trade_dependency_index"
+      ],
+      "recommendations_short": [
+         "The government of Australia should establish a national disaster resilience fund to provide immediate relief and support to regions affected by extreme weather events, with a focus on mitigating the economic impact of disasters.",
+         "AUS should implement policies to reduce its trade dependency index by diversifying international trade relationships and promoting regional economic integration, such as through the development of the Pacific Island trade agreement.",
+         "The government should invest in disaster risk reduction and management programs, including early warning systems, emergency preparedness planning, and infrastructure resilience projects, to minimize the economic shock impact of natural disasters."
+      ]
+   },
+   {
+      "iso3": "BEL",
+      "country": "Belgium",
+      "gdp_growth_2030_med": 5.557202746768667,
+      "gdp_growth_2030_low": -5.274235456507733,
+      "gdp_growth_2030_high": 7.693529406080681,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "The government of Belgium should implement policies to reduce its trade dependency index by investing in domestic industries and promoting local production, thereby increasing the country's resilience to global economic shocks.",
+         "The government of Belgium should establish an early warning system and emergency funds to mitigate the impact of potential disasters and reduce the average disaster damage per capita.",
+         "The government of Belgium should implement policies to diversify its economy and reduce its reliance on sectors that are heavily impacted by global economic shocks, such as the automotive sector, by investing in research and development of new industries and technologies."
+      ]
+   },
+   {
+      "iso3": "BGD",
+      "country": "Bangladesh",
+      "gdp_growth_2030_med": 3.837571230484512,
+      "gdp_growth_2030_low": -1.7311852224529978,
+      "gdp_growth_2030_high": 5.624319799912426,
+      "top3_vulnerabilities": [
+         "shock_impact_score",
+         "trade_dependency_index",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate the shock_impact_score vulnerability, the government should invest in a diversified social safety net program that provides targeted financial assistance to vulnerable households during periods of economic stress.",
+         "To address the trade_dependency_index vulnerability, Bangladesh should prioritize trade diversification by aggressively pursuing free trade agreements with multiple countries and regions, especially those with high demand for Bangladeshi textiles.",
+         "To minimize the avg_disaster_damage_percap vulnerability, the government should allocate 5% of the national budget annually to disaster resilience and adaptation initiatives, focusing on climate-resilient infrastructure development and emergency preparedness measures."
+      ]
+   },
+   {
+      "iso3": "CAN",
+      "country": "Canada",
+      "gdp_growth_2030_med": 1.7354015546683115,
+      "gdp_growth_2030_low": -3.352980398108214,
+      "gdp_growth_2030_high": 5.709833802394831,
+      "top3_vulnerabilities": [
+         "avg_disaster_damage_percap",
+         "trade_dependency_index",
+         "shock_impact_score"
+      ],
+      "recommendations_short": [
+         "The government of Canada should establish a Climate Resilience Fund to provide disaster relief and invest in adaptation infrastructure, focusing on regions with high average disaster damage per capita.",
+         "Canada should implement a diversified trade strategy to mitigate trade dependency risks, including strengthening its relations with emerging markets and increasing its share of intra-regional trade within the Americas.",
+         "The government should establish a Shock Impact Mitigation Program to provide targeted support to industries and communities most vulnerable to economic shocks, such as those with high exposure to global supply chain disruptions."
+      ]
+   },
+   {
+      "iso3": "CHN",
+      "country": "China",
+      "gdp_growth_2030_med": 2.2067625592942055,
+      "gdp_growth_2030_low": -2.8067633764799185,
+      "gdp_growth_2030_high": 6.090608876435524,
+      "top3_vulnerabilities": [
+         "shock_impact_score",
+         "trade_dependency_index",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate trade dependency risks, the government should implement policies to increase domestic value-added manufacturing through targeted tax incentives and investments in research and development, focusing on strategic industries such as electronics, automotive, and renewable energy.",
+         "To reduce the country's shock impact score, the government should establish a sovereign wealth fund to diversify and manage state assets, creating a financial cushion to absorb potential economic shocks and stabilize the economy.",
+         "To minimize the economic damage from natural disasters, the government should invest in a nationwide disaster risk reduction and management system, integrating advanced technologies such as satellite imaging, IoT sensors, and AI-powered predictive modeling to enhance early warning systems and evacuation planning."
+      ]
+   },
+   {
+      "iso3": "DEU",
+      "country": "Germany",
+      "gdp_growth_2030_med": 1.2216077742360747,
+      "gdp_growth_2030_low": -3.384744566971713,
+      "gdp_growth_2030_high": 5.802624217548944,
+      "top3_vulnerabilities": [
+         "avg_disaster_damage_percap",
+         "trade_dependency_index",
+         "shock_impact_score"
+      ],
+      "recommendations_short": [
+         "The German government should invest in disaster mitigation and adaptation infrastructure to reduce the average disaster damage per capita, such as upgrading flood protection systems along the Rhine and Elbe rivers.",
+         "The government should implement policies to diversify and reduce Germany's trade dependency index, including promoting domestic manufacturing and increasing trade with emerging markets, particularly in the Asia-Pacific region.",
+         "The government should establish a shock impact mitigation fund to provide financial support to households and businesses facing sudden economic shocks, such as supply chain disruptions or unexpected declines in global demand."
+      ]
+   },
+   {
+      "iso3": "ESP",
+      "country": "Spain",
+      "gdp_growth_2030_med": 1.2600722597328646,
+      "gdp_growth_2030_low": -3.5088314832255807,
+      "gdp_growth_2030_high": 5.703067725225606,
+      "top3_vulnerabilities": [
+         "shock_impact_score",
+         "avg_disaster_damage_percap",
+         "trade_dependency_index"
+      ],
+      "recommendations_short": [
+         "To mitigate the country's vulnerabilities, the government of Spain should establish a national risk assessment and management agency to provide early warnings and coordinated responses to potential shocks, such as those indicated by the shock_impact_score.",
+         "Furthermore, the government should implement a disaster resilience infrastructure fund to invest in disaster-resistant construction and infrastructure upgrades, focusing on areas with high avg_disaster_damage_percap to minimize the economic impact of future disasters.",
+         "Additionally, the government should develop a diversified trade strategy to reduce Spain's reliance on international trade and minimize the impact of potential trade disruptions, as indicated by the trade_dependency_index."
+      ]
+   },
+   {
+      "iso3": "FRA",
+      "country": "France",
+      "gdp_growth_2030_med": 1.7067810507477585,
+      "gdp_growth_2030_low": -3.0663883436329105,
+      "gdp_growth_2030_high": 5.432995170489591,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "The government of France should invest in diversifying its export markets and establishing strategic trade partnerships to mitigate the trade dependency index and shock impact score vulnerabilities.",
+         "The French government should establish a disaster risk reduction fund to allocate resources for disaster preparedness and mitigation measures, prioritizing areas with high average disaster damage per capita.",
+         "The government should implement policies to increase economic resilience, such as maintaining a moderate fiscal policy, reducing public debt, and promoting a stable and diversified financial sector to withstand potential economic shocks."
+      ]
+   },
+   {
+      "iso3": "GBR",
+      "country": "UK",
+      "gdp_growth_2030_med": 1.7587493447735072,
+      "gdp_growth_2030_low": -3.359647278387665,
+      "gdp_growth_2030_high": 5.494336846338852,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "resilience_score"
+      ],
+      "recommendations_short": [
+         "The government of the UK should prioritize increasing investment in research and development of local industries to reduce trade dependency index and enhance resilience score.",
+         "The government should implement targeted policies to improve supply chain resilience, focusing on developing backup systems and emergency response plans to mitigate the impact of global economic shocks.",
+         "The government should establish and improve international trade agreements to reduce the UK's reliance on a small number of key trading partners and to increase its bargaining power in global trade negotiations, thereby reducing its shock impact score."
+      ]
+   },
+   {
+      "iso3": "HRV",
+      "country": "Croatia",
+      "gdp_growth_2030_med": -3.585779712290417,
+      "gdp_growth_2030_low": -6.007412194817553,
+      "gdp_growth_2030_high": 8.632518589640465,
+      "top3_vulnerabilities": [
+         "avg_disaster_damage_percap",
+         "trade_dependency_index",
+         "shock_impact_score"
+      ],
+      "recommendations_short": [
+         "To mitigate Croatia's average disaster damage per capita, the government should invest in disaster risk reduction and climate resilience infrastructure, prioritizing coastal and flood-prone areas for enhanced protection measures.",
+         "Given Croatia's high trade dependency index, the government should diversify its economy by incentivizing and supporting the development of key domestic industries, such as sustainable tourism, renewable energy, and technology, to reduce reliance on international trade.",
+         "To minimize the shock impact score, the government should establish a sovereign wealth fund to manage and invest a portion of the country's revenue in a diversified portfolio of assets, allowing it to mitigate financial shocks and stabilize the economy in times of crisis."
+      ]
+   },
+   {
+      "iso3": "IND",
+      "country": "India",
+      "gdp_growth_2030_med": 4.94307936738167,
+      "gdp_growth_2030_low": -0.8940067419522688,
+      "gdp_growth_2030_high": 6.011187225358686,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate the country's trade dependency vulnerability, the government of India should implement policies to increase domestic manufacturing and reduce dependence on foreign goods through targeted subsidies and incentives for industries focused on value-added products.",
+         "To minimize the negative impact of economic shocks, the government should establish a sovereign wealth fund to manage and diversify India's foreign exchange reserves, ensuring a stable financial cushion during times of economic stress.",
+         "To address the country's vulnerability to natural disasters, the government should invest in disaster-resilient infrastructure projects, prioritizing the development of climate-resilient and disaster-resistant constructions, such as sea walls, flood-resistant buildings, and green roofs."
+      ]
+   },
+   {
+      "iso3": "IRN",
+      "country": "Iran",
+      "gdp_growth_2030_med": 1.8083496874919867,
+      "gdp_growth_2030_low": -3.6176236111538627,
+      "gdp_growth_2030_high": 5.941209019001332,
+      "top3_vulnerabilities": [
+         "shock_impact_score",
+         "trade_dependency_index",
+         "resilience_score"
+      ],
+      "recommendations_short": [
+         "To mitigate the shock impact score, the government of Iran should develop a comprehensive disaster risk management plan that prioritizes infrastructure resilience and emergency preparedness.",
+         "To reduce trade dependency index, the government should implement policies to promote domestic industries and manufacturing sectors, particularly in areas such as agriculture, textiles, and electronics.",
+         "To enhance resilience score, the government should invest in human capital development through education and vocational training programs that focus on skills in high-growth sectors and promote entrepreneurship and innovation."
+      ]
+   },
+   {
+      "iso3": "IRQ",
+      "country": "Iraq",
+      "gdp_growth_2030_med": 1.60162000362265,
+      "gdp_growth_2030_low": -2.9820856635463273,
+      "gdp_growth_2030_high": 5.495963417019427,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To address the key vulnerabilities, Iraq should implement policies to diversify its economy by investing in sectors such as renewable energy, agriculture, and manufacturing to reduce its trade dependency index.",
+         "Iraq should establish a sovereign wealth fund to manage revenue from oil exports and invest in low-risk assets to mitigate the impact of potential economic shocks.",
+         "Iraq should develop and implement a comprehensive disaster risk management plan, including infrastructure investments and public education campaigns, to minimize the average disaster damage per capita and enhance the country's resilience to natural disasters and climate-related events."
+      ]
+   },
+   {
+      "iso3": "ISR",
+      "country": "Israel",
+      "gdp_growth_2030_med": 1.402984244036539,
+      "gdp_growth_2030_low": -2.8429272575359965,
+      "gdp_growth_2030_high": 5.418161952873015,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate trade dependency vulnerability, the government should implement policies to diversify the economy through strategic investments in emerging industries and sectors that are less reliant on international trade, such as advanced technologies and renewable energy.",
+         "To address the shock impact score vulnerability, the government should establish a comprehensive early warning system and emergency preparedness plan to ensure swift and effective responses to potential economic and financial shocks, including those resulting from global events and geopolitical uncertainties.",
+         "To minimize average disaster damage per capita vulnerability, the government should prioritize investments in disaster risk reduction and management infrastructure, such as seawalls and flood-control systems, particularly in coastal and low-lying areas prone to natural disasters, and implement policies to promote resilience and adaptive capacity among vulnerable populations."
+      ]
+   },
+   {
+      "iso3": "ITA",
+      "country": "Italy",
+      "gdp_growth_2030_med": 1.7618586754383663,
+      "gdp_growth_2030_low": -3.354360057655146,
+      "gdp_growth_2030_high": 5.761684626679391,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate Italy's trade dependency index, the government should implement targeted measures to support domestic manufacturing and diversification, such as investing in research and development, providing incentives for local production, and encouraging strategic partnerships with foreign companies to enhance Italy's industrial base.",
+         "To address Italy's shock impact score, the government should establish a comprehensive risk management framework that includes early warning systems, emergency funding mechanisms, and collaborative efforts with the European Union and international organizations to develop and implement coordinated response strategies.",
+         "To reduce Italy's average disaster damage per capita, the government should develop and implement a nationwide disaster resilience plan, focusing on proactive measures such as flood control infrastructure development, climate-resilient urban planning, and public awareness campaigns to promote preparedness and adaptation."
+      ]
+   },
+   {
+      "iso3": "JPN",
+      "country": "Japan",
+      "gdp_growth_2030_med": 1.9346481315611015,
+      "gdp_growth_2030_low": -3.077581196309095,
+      "gdp_growth_2030_high": 6.00668236271586,
+      "top3_vulnerabilities": [
+         "avg_disaster_damage_percap",
+         "shock_impact_score",
+         "trade_dependency_index"
+      ],
+      "recommendations_short": [
+         "To mitigate Japan's disaster damage vulnerability, the government should invest in flood-control infrastructure and promote sustainable urban planning to minimize the impact of natural disasters.",
+         "To reduce the country's shock impact score, the government should establish a National Economic Resilience Fund that can quickly respond to economic disruptions by providing targeted financial assistance to affected businesses and industries.",
+         "To address Japan's high trade dependency index, the government should implement policies to promote domestic value-added production and support small and medium-sized enterprises in expanding their international market share to reduce reliance on global trade."
+      ]
+   },
+   {
+      "iso3": "LKA",
+      "country": "Sri Lanka",
+      "gdp_growth_2030_med": 1.8492496525694675,
+      "gdp_growth_2030_low": -3.220334044002313,
+      "gdp_growth_2030_high": 6.250810810743188,
+      "top3_vulnerabilities": [
+         "shock_impact_score",
+         "trade_dependency_index",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate shock impact score, the government of Sri Lanka should implement a robust early warning system and emergency response framework to quickly respond to natural disasters, thereby reducing the risk of devastating consequences.",
+         "To address trade dependency index, the government should prioritize diversification of trade by encouraging investment in local industries and promoting regional trade agreements to reduce dependence on a single market.",
+         "To manage avg disaster damage per capita, the government should invest in sustainable infrastructure development, focusing on resilient and adaptive design, to minimize the financial and human impact of disasters on Sri Lankan communities."
+      ]
+   },
+   {
+      "iso3": "PAK",
+      "country": "Pakistan",
+      "gdp_growth_2030_med": 3.8636833489726747,
+      "gdp_growth_2030_low": -2.2306007960141745,
+      "gdp_growth_2030_high": 5.653135968951276,
+      "top3_vulnerabilities": [
+         "shock_impact_score",
+         "trade_dependency_index",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate the shock impact score, the government of Pakistan should establish a comprehensive disaster risk finance framework, including a sovereign wealth fund to manage and absorb natural disaster-related shocks.",
+         "To reduce the trade dependency index, Pakistan should aggressively pursue regional trade agreements and enhance its participation in regional value chains, including the China-Pakistan Economic Corridor and other South Asian initiatives.",
+         "To address the high average disaster damage per capita, the government should implement a nationwide flood mitigation and early warning system, investing in the development of a comprehensive flood monitoring and response network to minimize damage and loss of life."
+      ]
+   },
+   {
+      "iso3": "PRT",
+      "country": "Portugal",
+      "gdp_growth_2030_med": -1.0397038606646758,
+      "gdp_growth_2030_low": -5.579050942499481,
+      "gdp_growth_2030_high": 8.80877323354803,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "The government of Portugal should invest in diversifying its economy by incentivizing the development of domestic high-tech industries, such as renewable energy and biotechnology, to reduce trade dependency index and shock impact score.",
+         "Portugal should establish and implement a comprehensive disaster risk management plan that prioritizes early warning systems, emergency preparedness, and infrastructure resilience to mitigate the impact of disasters on the economy.",
+         "The government should promote sustainable and resilient infrastructure development, including green infrastructure and climate-resilient construction practices, to reduce average disaster damage per capita and minimize the economic costs of natural disasters."
+      ]
+   },
+   {
+      "iso3": "RUS",
+      "country": "Russia",
+      "gdp_growth_2030_med": 1.956464251470549,
+      "gdp_growth_2030_low": -3.1907166515848715,
+      "gdp_growth_2030_high": 6.444846962638505,
+      "top3_vulnerabilities": [
+         "shock_impact_score",
+         "trade_dependency_index",
+         "resilience_score"
+      ],
+      "recommendations_short": [
+         "To mitigate the impact of external shocks, the government of Russia should implement a diversified foreign investment policy to reduce the trade dependency index by 10% within the next five years.",
+         "To enhance the resilience score, the government should launch an ambitious nationwide digital transformation program aimed at increasing the share of high-tech and knowledge-intensive industries in the country's GDP by 15% within the next decade.",
+         "To address the shock impact score, the government should establish a sovereign wealth fund to hedge against economic downturns by investing 5% of the annual budget in a diversified portfolio of low-risk assets."
+      ]
+   },
+   {
+      "iso3": "SAU",
+      "country": "Saudi Arabia",
+      "gdp_growth_2030_med": 1.402984244036539,
+      "gdp_growth_2030_low": -2.842336831345555,
+      "gdp_growth_2030_high": 5.419048322460176,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate the trade dependency index vulnerability, the government should implement measures to increase domestic manufacturing and production of critical goods, such as food and energy, through targeted subsidies and tax incentives for local industries.",
+         "To address the shock impact score vulnerability, the government should develop and implement a comprehensive disaster risk financing framework, including a sovereign wealth fund to manage unexpected economic shocks and provide a stable source of funding for critical infrastructure projects.",
+         "To reduce the average disaster damage per capita vulnerability, the government should invest in integrated flood protection and water management systems, including innovative technologies such as green roofs, porous pavements, and natural flood retention areas, to minimize the impact of extreme weather events on population centers."
+      ]
+   },
+   {
+      "iso3": "SWE",
+      "country": "Sweden",
+      "gdp_growth_2030_med": -3.2134854825183905,
+      "gdp_growth_2030_low": -6.144559674609858,
+      "gdp_growth_2030_high": 8.687993977812738,
+      "top3_vulnerabilities": [
+         "trade_dependency_index",
+         "shock_impact_score",
+         "avg_disaster_damage_percap"
+      ],
+      "recommendations_short": [
+         "To mitigate the impact of Sweden's high trade dependency index, the government should prioritize strengthening domestic industries by investing in research and development programs to enhance the country's manufacturing capabilities and reduce reliance on imports.",
+         "To address Sweden's high shock impact score, the government should establish a comprehensive risk management system to identify and prepare for potential economic shocks, including those related to climate change, global economic downturns, and other external factors.",
+         "To reduce the average disaster damage per capita, the government should allocate a significant portion of its budget to invest in climate-resilient infrastructure and flood prevention measures, particularly in areas prone to natural disasters such as coastal regions and low-lying areas."
+      ]
+   },
+   {
+      "iso3": "USA",
+      "country": "USA",
+      "gdp_growth_2030_med": 1.1976471782333087,
+      "gdp_growth_2030_low": -4.273459579016647,
+      "gdp_growth_2030_high": 6.05738608730211,
+      "top3_vulnerabilities": [
+         "shock_impact_score",
+         "trade_dependency_index",
+         "resilience_score"
+      ],
+      "recommendations_short": [
+         "To address the vulnerability of shock impact score, the government should establish a comprehensive early warning system to monitor key economic indicators and trigger automatic stabilizers to mitigate the impact of potential economic shocks.",
+         "To reduce the country's trade dependency index, the government should prioritize domestic manufacturing and infrastructure development through targeted tax incentives, subsidies, and investment in emerging technologies.",
+         "To enhance the country's resilience score, the government should implement a nationwide digital literacy program to improve the adaptability and preparedness of the workforce in response to emerging technological and economic disruptions."
+      ]
+   }
+]
