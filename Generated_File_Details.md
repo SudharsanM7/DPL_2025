@@ -1,8 +1,4 @@
-Great question 👌 — let me go through each file one by one, explain **what it contains, why it exists, and how it fits into your pipeline**.
-
----
-
-### 📂 **Data Inputs (raw/cleaned datasets)**
+These are the files that are created while execution of program and the explanation of why it was created and what it contains
 
 1. **`disasters.parquet`**
 
@@ -39,10 +35,6 @@ Great question 👌 — let me go through each file one by one, explain **what i
    * Social indicators: life expectancy, poverty rates, inequality, education.
    * Used for *social spending efficiency* and *poverty forecasting*.
 
----
-
-### 📂 **Intermediate Processed Files**
-
 8. **`tren_master.parquet`**
 
    * The **integrated dataset**: merges econ\_core, disasters, trade, welfare, etc.
@@ -62,10 +54,6 @@ Great question 👌 — let me go through each file one by one, explain **what i
     * Extracted *top 3 vulnerabilities per country*.
     * Inputs to policy briefs + visualization.
 
----
-
-### 📂 **Model Training / Evaluation**
-
 11. **`lgb_gdp_growth_model.pkl`**
 
     * Trained LightGBM model for GDP growth forecasting.
@@ -80,10 +68,6 @@ Great question 👌 — let me go through each file one by one, explain **what i
 
     * Backtesting evaluation of the GDP model against historical data.
     * Shows accuracy, bias, and residuals.
-
----
-
-### 📂 **Forecasts**
 
 14. **`forecast_baseline_2025_2030.parquet`**
 
@@ -113,10 +97,6 @@ Great question 👌 — let me go through each file one by one, explain **what i
 
     * Same as above in JSON format (structured for APIs/visualizations).
 
----
-
-### 📂 **Policy Briefs**
-
 21. **`policy_briefs_summary.csv`**
 
     * Table with GDP forecast + vulnerabilities for each country (summary stats).
@@ -131,16 +111,11 @@ Great question 👌 — let me go through each file one by one, explain **what i
     * Final policy briefs with **LLM-generated recommendations** tailored per country.
     * Merges forecasts + vulnerabilities + AI recommendations.
 
----
-
-###  **Visualizations**
-
 24. **`heatmap_gdp_growth_2025_2030.png`**
 
     * Heatmap of projected GDP growth by country/region over 2025–2030.
     * Used for quick visual insights.
 
----
  **Why they were created?**
 
 * **Raw data (`*.parquet`)** → collected and cleaned.
