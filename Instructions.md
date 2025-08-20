@@ -81,7 +81,7 @@ os.environ["HF_TOKEN"] = "your_api_token_here"
 
 * If you encounter an invalid token error:
 
-  * Open file:
+  * Open file with link given in document :
 
     ```
     DPL_2025/additional_api.txt
